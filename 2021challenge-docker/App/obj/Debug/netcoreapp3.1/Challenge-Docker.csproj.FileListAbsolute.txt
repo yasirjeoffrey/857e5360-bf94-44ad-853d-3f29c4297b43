@@ -1,0 +1,13 @@
+C:\work\Personal\challenge-project\2021challenge-docker\App\bin\Debug\netcoreapp3.1\Challenge-Docker.exe
+C:\work\Personal\challenge-project\2021challenge-docker\App\bin\Debug\netcoreapp3.1\Challenge-Docker.deps.json
+C:\work\Personal\challenge-project\2021challenge-docker\App\bin\Debug\netcoreapp3.1\Challenge-Docker.runtimeconfig.json
+C:\work\Personal\challenge-project\2021challenge-docker\App\bin\Debug\netcoreapp3.1\Challenge-Docker.runtimeconfig.dev.json
+C:\work\Personal\challenge-project\2021challenge-docker\App\bin\Debug\netcoreapp3.1\Challenge-Docker.dll
+C:\work\Personal\challenge-project\2021challenge-docker\App\bin\Debug\netcoreapp3.1\Challenge-Docker.pdb
+C:\work\Personal\challenge-project\2021challenge-docker\App\obj\Debug\netcoreapp3.1\Challenge-Docker.csprojAssemblyReference.cache
+C:\work\Personal\challenge-project\2021challenge-docker\App\obj\Debug\netcoreapp3.1\Challenge-Docker.AssemblyInfoInputs.cache
+C:\work\Personal\challenge-project\2021challenge-docker\App\obj\Debug\netcoreapp3.1\Challenge-Docker.AssemblyInfo.cs
+C:\work\Personal\challenge-project\2021challenge-docker\App\obj\Debug\netcoreapp3.1\Challenge-Docker.csproj.CoreCompileInputs.cache
+C:\work\Personal\challenge-project\2021challenge-docker\App\obj\Debug\netcoreapp3.1\Challenge-Docker.dll
+C:\work\Personal\challenge-project\2021challenge-docker\App\obj\Debug\netcoreapp3.1\Challenge-Docker.pdb
+C:\work\Personal\challenge-project\2021challenge-docker\App\obj\Debug\netcoreapp3.1\Challenge-Docker.genruntimeconfig.cache
