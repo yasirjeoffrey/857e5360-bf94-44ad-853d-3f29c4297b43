@@ -1,0 +1,6 @@
+test:
+  build: .  
+  working_dir: /src
+  command: ["dotnet",
+"test",
+"../LISTests/LISTests.csproj"]

@@ -1,0 +1,16 @@
+C:\WORK\Dev\857e5360-bf94-44ad-853d-3f29c4297b43\Challenge-LIS\App\bin\Debug\net5.0\NetCore.LIS.exe
+C:\WORK\Dev\857e5360-bf94-44ad-853d-3f29c4297b43\Challenge-LIS\App\bin\Debug\net5.0\NetCore.LIS.deps.json
+C:\WORK\Dev\857e5360-bf94-44ad-853d-3f29c4297b43\Challenge-LIS\App\bin\Debug\net5.0\NetCore.LIS.runtimeconfig.json
+C:\WORK\Dev\857e5360-bf94-44ad-853d-3f29c4297b43\Challenge-LIS\App\bin\Debug\net5.0\NetCore.LIS.runtimeconfig.dev.json
+C:\WORK\Dev\857e5360-bf94-44ad-853d-3f29c4297b43\Challenge-LIS\App\bin\Debug\net5.0\NetCore.LIS.dll
+C:\WORK\Dev\857e5360-bf94-44ad-853d-3f29c4297b43\Challenge-LIS\App\bin\Debug\net5.0\ref\NetCore.LIS.dll
+C:\WORK\Dev\857e5360-bf94-44ad-853d-3f29c4297b43\Challenge-LIS\App\bin\Debug\net5.0\NetCore.LIS.pdb
+C:\WORK\Dev\857e5360-bf94-44ad-853d-3f29c4297b43\Challenge-LIS\App\obj\Debug\net5.0\NetCore.LIS.csproj.AssemblyReference.cache
+C:\WORK\Dev\857e5360-bf94-44ad-853d-3f29c4297b43\Challenge-LIS\App\obj\Debug\net5.0\NetCore.LIS.GeneratedMSBuildEditorConfig.editorconfig
+C:\WORK\Dev\857e5360-bf94-44ad-853d-3f29c4297b43\Challenge-LIS\App\obj\Debug\net5.0\NetCore.LIS.AssemblyInfoInputs.cache
+C:\WORK\Dev\857e5360-bf94-44ad-853d-3f29c4297b43\Challenge-LIS\App\obj\Debug\net5.0\NetCore.LIS.AssemblyInfo.cs
+C:\WORK\Dev\857e5360-bf94-44ad-853d-3f29c4297b43\Challenge-LIS\App\obj\Debug\net5.0\NetCore.LIS.csproj.CoreCompileInputs.cache
+C:\WORK\Dev\857e5360-bf94-44ad-853d-3f29c4297b43\Challenge-LIS\App\obj\Debug\net5.0\NetCore.LIS.dll
+C:\WORK\Dev\857e5360-bf94-44ad-853d-3f29c4297b43\Challenge-LIS\App\obj\Debug\net5.0\ref\NetCore.LIS.dll
+C:\WORK\Dev\857e5360-bf94-44ad-853d-3f29c4297b43\Challenge-LIS\App\obj\Debug\net5.0\NetCore.LIS.pdb
+C:\WORK\Dev\857e5360-bf94-44ad-853d-3f29c4297b43\Challenge-LIS\App\obj\Debug\net5.0\NetCore.LIS.genruntimeconfig.cache

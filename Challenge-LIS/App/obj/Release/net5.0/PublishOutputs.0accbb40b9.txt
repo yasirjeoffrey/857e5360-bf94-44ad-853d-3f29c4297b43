@@ -1,0 +1,5 @@
+C:\WORK\Dev\857e5360-bf94-44ad-853d-3f29c4297b43\Challenge-LIS\App\bin\Release\net5.0\publish\NetCore.LIS.exe
+C:\WORK\Dev\857e5360-bf94-44ad-853d-3f29c4297b43\Challenge-LIS\App\bin\Release\net5.0\publish\NetCore.LIS.dll
+C:\WORK\Dev\857e5360-bf94-44ad-853d-3f29c4297b43\Challenge-LIS\App\bin\Release\net5.0\publish\NetCore.LIS.deps.json
+C:\WORK\Dev\857e5360-bf94-44ad-853d-3f29c4297b43\Challenge-LIS\App\bin\Release\net5.0\publish\NetCore.LIS.runtimeconfig.json
+C:\WORK\Dev\857e5360-bf94-44ad-853d-3f29c4297b43\Challenge-LIS\App\bin\Release\net5.0\publish\NetCore.LIS.pdb

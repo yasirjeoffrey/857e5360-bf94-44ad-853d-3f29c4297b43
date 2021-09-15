@@ -1,0 +1,62 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\WORK\\Dev\\857e5360-bf94-44ad-853d-3f29c4297b43\\Challenge-LIS\\App\\NetCore.LIS.csproj": {}
+  },
+  "projects": {
+    "C:\\WORK\\Dev\\857e5360-bf94-44ad-853d-3f29c4297b43\\Challenge-LIS\\App\\NetCore.LIS.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\WORK\\Dev\\857e5360-bf94-44ad-853d-3f29c4297b43\\Challenge-LIS\\App\\NetCore.LIS.csproj",
+        "projectName": "NetCore.LIS",
+        "projectPath": "C:\\WORK\\Dev\\857e5360-bf94-44ad-853d-3f29c4297b43\\Challenge-LIS\\App\\NetCore.LIS.csproj",
+        "packagesPath": "C:\\Users\\smyas\\.nuget\\packages\\",
+        "outputPath": "C:\\WORK\\Dev\\857e5360-bf94-44ad-853d-3f29c4297b43\\Challenge-LIS\\App\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\smyas\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
