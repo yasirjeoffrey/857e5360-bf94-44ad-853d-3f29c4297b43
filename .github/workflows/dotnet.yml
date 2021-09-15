@@ -17,11 +17,11 @@ jobs:
         with:
           dotnet-version: ${{ matrix.dotnet-version }}
       - name: Install dependencies
-        run: ./Challenge-LIS/dotnet restore
+        run: dotnet restore
         working-directory: Challenge-LIS
       - name: Build
-        run: ./Challenge-LIS/dotnet build --configuration Release --no-restore
+        run: dotnet build --configuration Release --no-restore
         working-directory: Challenge-LIS
       - name: Test
-        run: ./Challenge-LIS/dotnet test --no-restore --verbosity normal
+        run: dotnet test --no-restore --verbosity normal
         working-directory: Challenge-LIS
